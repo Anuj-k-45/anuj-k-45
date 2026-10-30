@@ -9,6 +9,7 @@
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="mailto:anujkaushal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
@@ -33,7 +34,7 @@ Hey, I'm **Anuj** 👋
 
 I'm a final-year Computer Science student at **IIIT Kalyani**, from **Mumbai**. I like the kind of problem where you can't fake it: either the system works under load, or it doesn't.
 
-That curiosity has taken me from a **48-hour hackathon win** to **Amazon's ML Summer School**, through four internships and **500+ LeetCode problems**. Along the way I learned to move fast, then go deep until I understand what's really happening underneath.
+That curiosity has taken me from a **48-hour hackathon win** to **Amazon's ML Summer School**, through three industry roles and **500+ LeetCode problems**. Along the way I learned to move fast, then go deep until I understand what's really happening underneath.
 
 > *"If I can't explain how it works, I don't trust it yet."*
 
@@ -69,9 +70,9 @@ I'm always up for a good conversation about AI, backend systems or hard problems
 </td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
+<td width="170"><b>Backend & Frameworks</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask,kafka,rabbitmq&theme=dark" /><br>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask&theme=dark" /><br>
 <img src="https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
@@ -80,53 +81,109 @@ I'm always up for a good conversation about AI, backend systems or hard problems
 </td>
 </tr>
 <tr>
-<td><b>Databases</b></td>
+<td width="170"><b>Messaging & Streaming</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,neo4j,elasticsearch,supabase,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" />
 </td>
 </tr>
 <tr>
-<td><b>LLM, RAG & Agents</b></td>
+<td width="170"><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase&theme=dark" /><br>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="170"><b>LLM, RAG & Agents</b></td>
 <td>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1F6FEB?style=flat-square"/>
 <img src="https://img.shields.io/badge/FastMCP-8957E5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square"/>
-<img src="https://img.shields.io/badge/LoRA-F85149?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Semantic_Chunking-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hybrid_Retrieval-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/LoRA_Fine--tuning-F85149?style=flat-square"/>
+<img src="https://img.shields.io/badge/Quantization-F85149?style=flat-square"/>
 </td>
 </tr>
 <tr>
-<td><b>ML & Vision</b></td>
+<td width="170"><b>ML & Computer Vision</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" /><br>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black"/>
+<img src="https://img.shields.io/badge/YOLO-00A3A3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Neural_Networks-EE4C2C?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square"/>
 </td>
 </tr>
 <tr>
-<td><b>Frontend</b></td>
+<td width="170"><b>Frontend</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td><b>Cloud & DevOps</b></td>
+<td width="170"><b>Cloud & DevOps</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,maven,prometheus,grafana&theme=dark" /><br>
-<img src="https://img.shields.io/badge/Zipkin-FE7139?style=flat-square"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux,maven&theme=dark" /><br>
+<img src="https://img.shields.io/badge/AWS_EC2_/_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td><b>Core CS</b></td>
+<td width="170"><b>Observability</b></td>
 <td>
-<code>DSA</code> <code>Operating Systems</code> <code>DBMS</code> <code>Computer Networks</code> <code>Machine Learning</code> <code>Neural Networks</code> <code>NLP</code> <code>Computer Vision</code>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+<img src="https://img.shields.io/badge/Zipkin-FE7139?style=flat-square"/>
+<img src="https://img.shields.io/badge/Distributed_Tracing-FE7139?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="170"><b>Architecture & Patterns</b></td>
+<td>
+<img src="https://img.shields.io/badge/Microservices-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Event--Driven-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/CQRS-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Outbox_Pattern-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Polyglot_Persistence-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Gateway-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rate_Limiting-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Circuit_Breaker-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Replication-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Concurrency-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/TCP_Sockets-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/RESP_Protocol-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td width="170"><b>Tools & Integrations</b></td>
+<td>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCR-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web_Scraping-1F6FEB?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="170"><b>Core CS</b></td>
+<td>
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operating_Systems-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/DBMS-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Networks-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Machine_Learning-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Neural_Networks-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-2EA043?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -142,9 +199,9 @@ I'm always up for a good conversation about AI, backend systems or hard problems
 **🧬 RepoMind**<br>
 <sub>AI agent for Java repository intelligence</sub>
 
-LangGraph agent with graph, vector, metadata and full-text retrieval. Answers cite files and lines pinned to a commit.
+LangGraph agent with a bounded refine loop over four parallel retrieval channels: metadata, Neo4j call graph, Qdrant vectors and full-text. Answers cite files and lines pinned to a commit, and gaps are stated, not guessed.
 
-`LangGraph` `Neo4j` `Qdrant` `PostgreSQL`
+`LangGraph` `Neo4j` `Qdrant` `PostgreSQL` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
@@ -152,9 +209,9 @@ LangGraph agent with graph, vector, metadata and full-text retrieval. Answers ci
 **🍔 QuickBite**<br>
 <sub>6-microservice food delivery backend</sub>
 
-Outbox pattern, CQRS, Redis geospatial dispatch matching drivers within 10 km in 12 ms, full observability.
+Polyglot persistence (PostgreSQL, MongoDB, Elasticsearch) on a CQRS mediator. The **outbox pattern** gives zero event loss even if RabbitMQ is down mid-transaction. Redis geospatial dispatch matches drivers within **10 km in 12 ms**, verified in Zipkin traces. JWT-secured Spring Cloud Gateway with rate limiting and a circuit breaker.
 
-`Spring Boot` `RabbitMQ` `Redis` `Zipkin`
+`Spring Boot` `RabbitMQ` `Redis` `Prometheus` `Grafana` `Zipkin`
 
 </td>
 </tr>
@@ -164,19 +221,19 @@ Outbox pattern, CQRS, Redis geospatial dispatch matching drivers within 10 km in
 **👗 Style Magnet**<br>
 <sub>AI outfit ranking and autonomous shopping</sub>
 
-Latency cut from ~5s to ~80ms. Stripe checkout, 47 organic US users, Playwright agent across 3 retailers.
+LLM-powered ranking against a user's body shape. Replaced the LLM-wrapper call with a weighted query over a **71-table schema**: **~5s → ~80ms (~98%)**. Stripe checkout end to end, soft-launched in the US to **47 organic users** with zero marketing spend. Autonomous Playwright agent with DOM-adaptive navigation and stealth bot-bypass across **3 retailers**.
 
-`Next.js` `FastAPI` `LangGraph` `Playwright`
+`Next.js` `FastAPI` `Supabase` `LangChain` `Playwright` `Stripe`
 
 </td>
 <td width="50%" valign="top">
 
 **🧊 ByteCache**<br>
-<sub>Redis-compatible database in Java</sub>
+<sub>Redis-compatible database, built from scratch in Java</sub>
 
-50+ commands across 6 data types, transactions, primary-replica replication, RDB/AOF persistence.
+**50+ commands across 6 data types** (strings, lists, streams, sorted sets, bitmaps, geospatial) over a custom TCP server and incremental RESP parser. Optimistic transactions (`WATCH`), blocking `BLPOP` and `XREAD`, primary-replica replication with quorum `WAIT`, RDB/AOF persistence and crash recovery.
 
-`Java` `TCP` `RESP` `Concurrency`
+`Java` `TCP Sockets` `RESP` `Concurrency` `Replication`
 
 </td>
 </tr>
@@ -269,6 +326,32 @@ Contest rating **1732**, backed by a strong DSA foundation.
 
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+
+### ⚽ Football · Nationals
+**Representing Mumbai and IIIT Kalyani**
+
+Played football at the national level for both my city and my institute.
+
+</td>
+<td width="33%" valign="top">
+
+### 🏛️ All India IIIT Meet
+**2025 and 2026**
+
+Represented IIIT Kalyani at the All India IIIT Meet two years running.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎶 Indian Classical Music
+**9 years of training**
+
+Nine years of dedicated practice. Discipline off the keyboard that shows up in how I work on it.
+
+</td>
+</tr>
 </table>
 
 <br>
@@ -281,14 +364,7 @@ Contest rating **1732**, backed by a strong DSA foundation.
 
 <br>
 
-## 📈 GitHub
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anuj-k-45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-k-45&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anuj-k-45&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" alt="Activity graph" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:58A6FF,55:1F6FEB,100:0D1117&section=footer" alt="" />
 
