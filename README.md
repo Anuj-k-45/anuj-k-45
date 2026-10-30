@@ -14,7 +14,7 @@
 <br>
 <img src="https://img.shields.io/badge/GPA-9.51_/_10-2EA043?style=flat-square&labelColor=0D1117" alt="GPA"/>
 <img src="https://img.shields.io/badge/IIIT_Kalyani-Class_of_2027-1F6FEB?style=flat-square&labelColor=0D1117" alt="College"/>
-<img src="https://img.shields.io/badge/LeetCode-1732_rating-FFA116?style=flat-square&labelColor=0D1117" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-1823_rating-FFA116?style=flat-square&labelColor=0D1117" alt="LeetCode"/>
 <img src="https://img.shields.io/badge/MLH_Status_Code_2-1st_Place-8957E5?style=flat-square&labelColor=0D1117" alt="MLH"/>
 <img src="https://img.shields.io/badge/Amazon_ML_Summer_School-2025-FF9900?style=flat-square&labelColor=0D1117" alt="Amazon"/>
 
@@ -53,7 +53,7 @@ I'm always up for a good conversation about AI, backend systems or hard problems
 | ☕ **Primary stack** | Java · Spring Boot · Microservices |
 | 🏅 **GPA** | 9.51 / 10 |
 | 🗓️ **Graduating** | May 2027 |
-| 🧮 **LeetCode** | 500+ solved · 1732 rating |
+| 🧮 **LeetCode** | 500+ solved · 1823 rating |
 | 🥇 **Hackathon** | MLH Status Code 2 winner |
 | 🎖️ **Program** | Amazon ML Summer School '25 |
 | 💼 **Exprienced as** | SDE · AI/ML · Backend roles |
@@ -326,7 +326,7 @@ Selected for Amazon's premier ML program, mentored by Amazon scientists in deep 
 ### 🧮 Competitive Programming
 **500+ problems on LeetCode**
 
-Contest rating **1732**, backed by a strong DSA foundation.
+Contest rating **1823**, backed by a strong DSA foundation.
 
 </td>
 </tr>
